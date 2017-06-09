@@ -1,9 +1,10 @@
-<?xml version="1.0"encoding="UTF=8"?>
-<widget xmlns ="http://www.w3.org/ns/widget"
+<?xml version="1.0" encoding="UTF=8"?>
+<widget xmlns ="http://www/w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-		id       ="com.phonegap=api-request"
-		version  ="1.0.0">
+		id = "com.phonegap=api-request"
+		version ="1.0.0">
 		<name>Invovo</name>
 		<preference name="Fullscreen" value="true"/>
 		<description> This application is my first hybrid Application</description>
 		<icon src="Images/Icon.png"/>
+</widget>
